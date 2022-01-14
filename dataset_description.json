@@ -1,0 +1,11 @@
+{
+    "Name": "Inter-individual deep image reconstruction",
+    "License": "CC0",
+    "Authors": ["Jun Kai Ho", "Tomoyasu Horikawa", "Kei Majima", "Yukiyasu Kamitani"],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [],
+    "ReferencesAndLinks": ["Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruction, bioRxiv. https://www.biorxiv.org/content/10.1101/2021.12.31.474501v1"],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.2"
+}
