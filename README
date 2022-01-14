@@ -9,8 +9,8 @@ Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruc
 ### MRI data   
 
 This dataset contains fMRI data from two subjects ('sub-04', 'sub-05'). Each subject data contains two types of MRI data collected over multiple scanning sessions.  
-- 'ses-perceptionNaturalImageTest': fMRI data from the test natural image sessions in the image presentation experiment (24 runs; 3 sessions)  
-- 'ses-perceptionArtificialImage': fMRI data from the geometric shape sessions in the image presentation experiment (20 runs; 2-3 sessions)  
+-  'ses-perceptionNaturalImageTest': fMRI data from the test natural image sessions in the image presentation experiment (24 runs; 3 sessions)  
+-  'ses-perceptionArtificialImage': fMRI data from the geometric shape sessions in the image presentation experiment (20 runs; 2-3 sessions)  
 
 Each scanning session consisted of functional (EPI) and anatomical (inplane T2) images. The functional EPI images covered the entire brain (TR, 2000 ms; TE, 43 ms; flip angle, 80°; voxel size, 2 × 2 × 2 mm; FOV, 192 × 192 mm; number of slices, 76; slice gap, 0 mm; multiband factor, 4) and inplane T2-weighted anatomical images were acquired with the same slices used for the EPI (TR, 11,000 ms; TE, 59 ms; flip angle, 160°; voxel size, 0.75 × 0.75 × 2.0 mm; FOV, 192 × 192 mm). All DICOM files are converted to Nifti-1 files by mri_convert in FreeSurfer.
 
