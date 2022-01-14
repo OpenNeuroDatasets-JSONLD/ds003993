@@ -9,6 +9,7 @@ Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruc
 ### MRI data   
 
 This dataset contains fMRI data from two subjects ('sub-04', 'sub-05'). Each subject data contains two types of MRI data collected over multiple scanning sessions.  
+
 -  'ses-perceptionNaturalImageTest': fMRI data from the test natural image sessions in the image presentation experiment (24 runs; 3 sessions)  
 -  'ses-perceptionArtificialImage': fMRI data from the geometric shape sessions in the image presentation experiment (20 runs; 2-3 sessions)  
 
