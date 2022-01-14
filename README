@@ -29,7 +29,7 @@ In task event files for single-image presentation experiments ('task-perception'
 - 'trial_type': type of the event (1: Stimulus presentation block, 2: Repetition block, -1 and -2: Initial and post rest blocks without visual stimulus)
 - 'stimulus_name': stimulus file name of the image presented in a stimulus block ('n/a' in rest blocks)
 - 'response_time': time of button press in the block, elapsed time from the beginning of each run (sec, 'n/a' when the subject did not press the button in the block)
-- Additional column 'image_index' are for internal use.
+- Additional column 'image_index' is for internal use.
 
 
 #### Image/category labels
