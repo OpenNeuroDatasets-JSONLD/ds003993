@@ -15,5 +15,8 @@
         "Ho, J. K., Horikawa, T., Majima, K., Cheng, F., & Kamitani, Y. (2023). Inter-individual deep image reconstruction via hierarchical neural code conversion. NeuroImage, 271, 120007. https://doi.org/10.1016/j.neuroimage.2023.120007"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003993.v1.0.0",
-    "BIDSVersion": "1.0.2"
+    "BIDSVersion": "1.0.2",
+    "EthicsApprovals": [
+        "the Ethics Committee of Advanced Telecommunications Research Institute International, Approval No. 106"
+    ]
 }
